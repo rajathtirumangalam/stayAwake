@@ -19,10 +19,10 @@ This makes it useful during presentations, meetings, long-running tasks, downloa
 
 ## Default Keyboard Shortcuts
 
-* **NVDA + Ctrl + Shift + I**
+* **NVDA + Ctrl + Shift + a**
   Toggle StayAwake on or off
 
-* **NVDA + Ctrl + Shift + A**
+* **NVDA + Ctrl + Shift + i**
   Announce whether StayAwake is currently enabled
 
 All shortcuts can be customized through:
